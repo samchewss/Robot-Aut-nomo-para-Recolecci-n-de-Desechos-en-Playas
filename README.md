@@ -112,16 +112,6 @@ El usuario envía comandos mediante un control remoto infrarrojo hacia el recept
 
 ---
 
-## 👥 Integrantes
-
-Proyecto desarrollado dentro de la asignatura:
-
-**Proyectos Mecatrónicos**
-
-Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)
-
----
-
 ## 🌎 Objetivo ambiental
 
 Este proyecto busca demostrar cómo la integración de mecánica, electrónica y programación puede utilizarse para desarrollar soluciones tecnológicas enfocadas a la reducción del impacto ambiental y al fortalecimiento de prácticas sostenibles.
